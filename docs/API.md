@@ -40,7 +40,7 @@ title: Work in progress
 
 ### `zoom`
 
-This property specifies the zoom value of the camera. Ranges from 0 to 1. Default to 0.
+This BRANCH1 specifies the zoom value of the camera. Ranges from 0 to 1. Default to 0.
 
 | Type   | Default Value |
 | ------ | ------------- |
