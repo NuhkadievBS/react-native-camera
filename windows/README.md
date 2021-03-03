@@ -1,4 +1,4 @@
-# React Native Camera (Windows)
+# React BRANCH2 Camera (Windows)
 
 React Native Camera is currently maintained for React Native Windows (RNW) >= 0.61.
 
