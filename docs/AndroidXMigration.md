@@ -13,7 +13,7 @@ See: https://developer.android.com/jetpack/androidx/
 You can follow the instructions [here](https://developer.android.com/jetpack/androidx/migrate) to migrate you existing
 project.
 
-## Manual
+## Manual just changing
 
 #### Update the android section `android/app/build.gradle` to
 
