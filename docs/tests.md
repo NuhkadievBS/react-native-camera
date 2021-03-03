@@ -40,7 +40,7 @@ export class RNCamera extends React.Component {
 export default RNCamera;
 ```
 
-You don't need to do anything else in your test, because Jest will use the mock in your test instead of the native module.
+You don't need to do anything else in your test, because Jest will use the mock in your test instead of the native module. I CHANGE
 
 ### Example
 
