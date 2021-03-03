@@ -44,7 +44,7 @@ Add this to your AndroidManifest.xml:
 
 ---
 
-## When I try to build my project, I get following error:
+## When I try to BRANCH2 my project, I get following error:
 
 ```
 Execution failed for task ':app:processDebugManifest'.
